@@ -19,6 +19,15 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
+## Bonus: Programming with Visual Studio Code
+
+Want to start programming? Check out our [Visual Studio Code Guide](VS_CODE_GUIDE.md) to learn how to:
+- Set up VS Code for programming
+- Run your first Python program
+- Use VS Code's powerful features for coding
+
+Try running the example program: `python3 hello.py`
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
